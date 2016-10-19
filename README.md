@@ -6,4 +6,3 @@ configuration phpmyadmin nginx
 Command terminal:
 sudo ln -s /usr/share/phpmyadmin/ /var/www/html/
 sudo service nginx restart
-
